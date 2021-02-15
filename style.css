@@ -25,3 +25,19 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+h2 {
+  color: #fff;
+  text-align: center;
+  font-size: 8vw;
+  line-height: 0.65em;
+  z-index: 1000;
+  font-weight: 900;
+}
+
+h2 span {
+  font-size: 0.295em;
+  letter-spacing: 0.4em;
+  font-weight: 400;
+  text-transform: uppercase;
+}
