@@ -14,10 +14,17 @@
     <script src="anime.min.js"></script>
     <script>
         const container = document.querySelector('.container')
-        for (let i = 0; i <= 5; i++){
+        for (var i = 0; i <= 5; i++){
             const blocks = document.createElement('div');
             blocks.classList.add('block');
             container.appendChild(blocks);
+        }
+
+        function animateBlocks(){
+            anime({
+                targets: '.block',
+                translateX: 400,
+            })
         }
     </script>
 </body>
