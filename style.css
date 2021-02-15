@@ -14,8 +14,10 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #e80202;
+  background: #023fe8;
 }
+
+/* #e80202 */
 
 .container {
   position: absolute;
@@ -46,6 +48,6 @@ h2 span {
   position: absolute;
   width: 50px;
   height: 100px;
-  background: #e80202;
+  background: #023fe8;
   box-shadow: 10px 10px 50px rgba(0, 0, 0, 0.2);
 }
