@@ -93,3 +93,5 @@ open index.html
 #
 
 <a href=#header>![Back to Top](Assets/inter-congrats.png)</a>
+
+<!-- Emmanuel Jose logo and favicon. © Emmanuel Jose. All Rights Reserved. -->
